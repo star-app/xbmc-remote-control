@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_password">密码</string>
+    <string name="setup_wizard_username">用户名</string>
+    <string name="setup_wizard_retry">重试</string>
+    <string name="setup_wizard_es_change_port">您可以输入其它的端口来连接XBMC事件管理器,如果您没有改变XBMC中的此端口，请跳过此步骤.</string>
+    <string name="setup_wizard_es_explanation">XBMC的事件管理器被用来远程控制XBMC,此管理器不启用当前应用将无法使用.</string>
+    <string name="setup_wizard_port">XBMC服务器的端口</string>
+    <string name="setup_wizard_ip_host">XBMC服务器的IP或主机名</string>
+    <string name="wizard_next">下一步</string>
+    <string name="wizard_previous">预览</string>
+    <string name="setup_wizard_connecting_wait">正在连接XBMC.请等待.</string>
+    <string name="setup_wizard_cant_connect">不能连接到XBMC,请检查IP地址和端口．系统报告:</string>
+    <string name="setup_wizard_checking_es_wait">尝试读取事件管理器的状态,请等待.</string>
+    <string name="setup_wizard_enable_es_wait">启动事件管理器,请等待.</string>
+    <string name="setup_wizard_login_wrong">用户名或密码错误,请检查输入并重试.</string>
+    <string name="setup_wizard_trying_mute">尝试通过事件管理器设置XBMC为静音来检测是否连通,请等待.</string>
+    <string name="setup_wizard_muting_failed">不能通过事件管理器设置XBMC为静音,请检查UDP端口9777是否被防火墙拦截.如果你使用3G网络,请确保的UDP端口9777通过你的路由器转发.</string>
+    <string name="setup_wizard_final_message">一切就绪,您将结束向导开始使用控制器,祝您使用愉快.</string>
+    <string name="app_name">四达盒子遥控器</string>
+    <string name="app_version">版本</string>
+    <string name="app_version_content">v1.0.0</string>
+	<string name="app_receiver">XbmcBroadcastReceiver</string>
+	<string name="sms_received">SMS received</string>
+	<string name="alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+	<string name="play_on_xbmc">通过XBMC播放</string>
+	<string name="setup_wizard_hostname">当前主机的名称</string>
+	<string name="add_from_barcode">通过条形码添加</string>
+	<string name="generate_barcode">生成条形码</string>
+	<string name="hosts_required">使用此特性,至少需要一台主机.</string>
+	<string name="pick_host">选择一个主机</string>
+	<string name="ok">确定</string>
+	<string name="yes">是</string>
+	<string name="no">否</string>
+	<string name="host_scan_error">扫描新主机时发生错误，请确定您扫描的是一个有效的条形码.</string>
+	<string name="added_host">成功添加 \"%s\"</string>
+	<string name="barcode_scanner_required">使用此功能您需要先安装条形码扫描工具.此时安装?</string>
+	<string name="make_sure_XBMC_webserver_is_enabled_and_XBMC_is_running">请确保XBMC WebServer已经启用且XBMC已经运行.</string>
+</resources>
